@@ -1,4 +1,4 @@
-for t=you kind information
+for your kind information
 
 File name ------- Real name
    12           volume control
